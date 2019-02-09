@@ -1,0 +1,3 @@
+grindE - This test case is included to see if the malloc and free functions can continuously and smoothly be implemented for the length of the array without any errors or segmnetation faults.
+
+grindF - This test case is included to check the consistency of the program when dealing with frequently small memory allocation requests, between 1 and 5 bytes, and freeing many small blocks of memory.
